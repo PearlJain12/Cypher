@@ -1,4 +1,4 @@
-# Cypher
+# Four Square Cipher
 
 [Historical](Historical.md)
 
