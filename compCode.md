@@ -17,3 +17,14 @@ You can decrypt by entering your code and then clicking the "DECRYPT" button
 The upper left of the website shows the resulting decrypted code
 
 ![Screen Shot 2021-11-17 at 11 25 50 PM](https://user-images.githubusercontent.com/94381250/142357283-5786639f-386c-4d9f-b1e0-30aeff8e01ea.png)
+
+[Historical](Historical.md)
+
+[Mechanics](Mechanics.md)
+
+[Mathematical Analysis](mathAnalysis.md)
+
+[Final Analysis](https://github.com/PearlJain12/Cypher/blob/main/Final-Analysis.md)
+
+[Main Page](README.md)
+
