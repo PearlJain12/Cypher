@@ -3,7 +3,7 @@
 
 **How it works:** The alphabet is divided into four boxes of uppercase and lowercase letters. The two parties will communicate beforehand in which order they will want to go about the tables (left to right, top to bottom, etc.). Then the words of the parties' are split into pairs (ex. CATS => CA TS). Then locate the pairs in the adjacent boxes in order to encrypt. The process of encryption and decryption is the same so the cipher is symmetric.
 
-Ex. Encrypt: 
+**Ex. Encrypt:**
 
 split into pairs: four => FO and UR
 
@@ -23,7 +23,7 @@ find the letters in the corresponding line that the letters make in the uppercas
   
 
 
-Ex. Decrypt: MXKW
+**Ex. Decrypt: MXKW**
 
 split into pairs: MX KW
 
