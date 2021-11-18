@@ -18,3 +18,16 @@ you have to use brute force cryptoanalysis to figure out the frequencies of cert
 best way to decrypt these ciphers. There is a low level of mathematics involved and all you need to do is analyze graphs. 
 
 ![alt text](https://crypto.interactive-maths.com/uploads/1/1/3/4/11345755/5749995_orig.jpg "Frequency")
+
+
+[Historical](Historical.md)
+
+[Mechanics](Mechanics.md)
+
+[Computer Code](compCode.md)
+
+[Final Analysis](https://github.com/PearlJain12/Cypher/blob/main/Final-Analysis.md)
+
+[Main Page](README.md)
+
+
