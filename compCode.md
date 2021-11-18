@@ -8,3 +8,6 @@ You can encrypt by entering your choice of words and then clicking the "ENCRYPT"
 
 In the upper left the website shows the encrypted code
 
+![Screen Shot 2021-11-17 at 11 20 37 PM](https://user-images.githubusercontent.com/94381250/142356809-6e1739c9-dd92-4592-bcff-7dbaf2b7bc5e.png)
+
+You can decrypt by entering your code and then clicking the "DECRYPT" button
