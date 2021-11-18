@@ -13,4 +13,4 @@ But when computers weren't that fast it was actually quite effective. There is a
 
 [Computer Code](compCode.md)
 
-[Main Page](https://github.com/PearlJain12/Cypher/edit/main/README.md)
+[Main Page](README.md)
