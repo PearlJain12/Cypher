@@ -10,3 +10,12 @@ To decrypt, you enter your encrypted message and enter the key in an ordered pai
 
 If you don't know the key, you can also click auto solve and it brute forces the encrypted message to find the plain text.
 
+[Historical](HistoricalTransposition.md)
+
+[Mechanics](mechanicsTransposition.md)
+
+[Mathematical Analysis](mathAnalysisTransposition.md)
+
+[Final Analysis](finalAnalysisTransposition)
+
+[Main](README.md)
