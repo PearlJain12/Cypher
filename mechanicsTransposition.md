@@ -40,3 +40,14 @@ o h a s n h -
 ***
 Once again, going down the columns, you get "We love the transposition cipher"
 Since the process of encryption and decryption is the same, this cipher is symmetrical.
+
+[Historical](HistoricalTransposition.md)
+
+[Mathematical Analysis](mathAnalysisTransposition.md)
+
+[Computer Code](compCodeTransposition.md)
+
+[Final Analysis](finalAnalysisTransposition)
+
+[Main](README.md)
+
