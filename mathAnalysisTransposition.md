@@ -11,6 +11,6 @@ There is really no mathmatical complexity invoved you just need to be able to ma
 
 [Computer code](https://github.com/PearlJain12/Cypher/blob/TranspositionCipher/compCodeTransposition.md)
 
-[Final Analysis](https://github.com/PearlJain12/Cypher/blob/TranspositionCipher/finalAnalysisTransposition)
+[Final Analysis](finalAnalysisTransposition.md)
 
 [Main](https://github.com/PearlJain12/Cypher/blob/TranspositionCipher/README.md)
