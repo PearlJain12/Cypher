@@ -16,6 +16,6 @@ If you don't know the key, you can also click auto solve and it brute forces the
 
 [Mathematical Analysis](mathAnalysisTransposition.md)
 
-[Final Analysis](finalAnalysisTransposition)
+[Final Analysis](finalAnalysisTransposition.md)
 
 [Main](README.md)
