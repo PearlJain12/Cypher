@@ -47,7 +47,7 @@ Since the process of encryption and decryption is the same, this cipher is symme
 
 [Computer Code](compCodeTransposition.md)
 
-[Final Analysis](finalAnalysisTransposition)
+[Final Analysis](finalAnalysisTransposition.md)
 
 [Main](README.md)
 
