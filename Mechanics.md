@@ -11,33 +11,33 @@ find lowercase f and o
 
 find the letters in the corresponding line that the letters make in the uppercase boxes
 
-FO=>MX
+FO=>VQ
 
 find lowercase u and r 
 
 find the letters in the corresponding line that the letters make in the uppercase boxes
  
- UR=>KW
+ UR=>KZ
   
-  FOUR=> MXKW
+  FOUR=> VQKZ
   
 
 
 **Ex. Decrypt: MXKW**
 
-split into pairs: MX KW
+split into pairs: VQ KZ
 
-find uppercase M and X
-
-find the letters in the corresponding line that the letters make in the lowercase boxes
-
-MX=> FO
-
-find uppercase K and W
+find uppercase V and Q
 
 find the letters in the corresponding line that the letters make in the lowercase boxes
 
-KW=> UR
+VQ=> FO
+
+find uppercase K and Z
+
+find the letters in the corresponding line that the letters make in the lowercase boxes
+
+KZ=> UR
 
 FO UR
 
