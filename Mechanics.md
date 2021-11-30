@@ -23,7 +23,7 @@ find the letters in the corresponding line that the letters make in the uppercas
   
 
 
-**Ex. Decrypt: MXKW**
+**Ex. Decrypt: VQKZ**
 
 split into pairs: VQ KZ
 
