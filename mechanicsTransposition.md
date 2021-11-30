@@ -1,7 +1,7 @@
 # Mechanics
 
 In order to encrypt with the transposition cipher, you need plain text (e.g. "We love the transposition cipher"). You will also need a key. This key will 
-create a table used for encryption. Our key will be '8'. This menas that there will be 8 columns in our table.
+create a table used for encryption. Our key will be '7 x 5'. This means that there will be 7 rows and 5 columns columns in our table.
 
 Our encryption process would look like this:
 ***
@@ -26,7 +26,8 @@ Then, you create the encrypted message by creating ords going down the columns.
 
 "Wveni-eee-stcr--tpii-ltroop-ohasnh-"
 
-To decrypt, you can create a matrix. Count the number of characters in the message: 35. When you factor this, you get a 5 x 7 matrix.
+To decrypt, you can create a matrix. Count the number of characters in the message: 35. When you factor this, you get a 5 x 7 matrix. Notice that this is opposite the original key. 
+
 ***
 w v e n i - e
 
